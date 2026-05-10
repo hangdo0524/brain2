@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "031eec2bbf75e95a",
+    "type": "split",
+    "children": [
+      {
+        "id": "13071e7c8a50daf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5ccfd3d4c8cae4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ef06d2d20339674",
+    "type": "split",
+    "children": [
+      {
+        "id": "aadbfb97b89b5f87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23e7a3ff6ab686b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "78f1ed5ff2833b75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c11890f8ef090086",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0187d78189697f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "af8a1ec03556c84e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cae8b09b606b6905",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Atomic/Stories/business-story-demo-phan-mem-thue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for business-story-demo-phan-mem-thue"
+            }
+          },
+          {
+            "id": "561a51171c63b2af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Atomic/Stories/business-story-demo-phan-mem-thue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from business-story-demo-phan-mem-thue"
+            }
+          },
+          {
+            "id": "82bd4659e4c64b2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8845db75bb6362a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "91c91d93ed4176e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-Atomic/Stories/business-story-demo-phan-mem-thue.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of business-story-demo-phan-mem-thue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ba5ccfd3d4c8cae4",
+  "lastOpenFiles": [
+    "01-Atomic/Stories/business-story-demo-phan-mem-thue.md",
+    "01-Atomic/Insights/pm-insight-negotiation-scope-decoupling.md",
+    "01-Atomic/Stories/parenting-story-khung-hoang-gio-di-ngu.md",
+    "01-Atomic/Insights/life-insight-kinh-nghiem-quyet-toan-thue.md",
+    "01-Atomic/Concepts/pkm-concept-moc-over-folders.md",
+    "Second Brain.md",
+    "00-Inbox/_README.md",
+    "01-Atomic/Reflections/learning-reflection-chia-nho-kien-thuc.md"
+  ]
+}

@@ -1,0 +1,1 @@
+/Users/hangdo/brain2/ai-config/CLAUDE.md

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "Bash(unset GITHUB_TOKEN)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Read(//Users/hangdo/.gemini/antigravity/**)"
+    ],
+    "additionalDirectories": [
+      "/Users/hangdo/.gemini/antigravity"
+    ]
+  }
+}
