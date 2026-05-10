@@ -3,8 +3,19 @@
 *.swp
 *.swo
 *~
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
 .trash/
 node_modules/
+
+# Obsidian local settings
+.obsidian/
+vault/.obsidian/
+
+# Temp files
+Untitled.canvas
+....md
+
+# IDE/Editor
+*.code-workspace
+
+# Claude Code local settings
+.claude/settings.local.json
