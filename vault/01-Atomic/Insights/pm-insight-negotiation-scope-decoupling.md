@@ -8,8 +8,9 @@ source: "Trải nghiệm thực tế dự án KBC/Quantit"
 discovered_from: "Negotiation with Sukju Hwang regarding Admin scope"
 confidence: high
 related: []
-used_count: 0
-used_in: []
+used_count: 1
+used_in:
+  - "[[../../00-Inbox/2026-05-31-linkedin-scope-decoupling]]"
 tags: ["negotiation", "project-management", "outsourcing", "scope-creep"]
 maturity: seed
 review_interval: 14
