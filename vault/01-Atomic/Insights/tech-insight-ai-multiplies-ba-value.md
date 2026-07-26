@@ -8,8 +8,9 @@ source: "Trải nghiệm thực tế từ dự án ConstructHub"
 discovered_from: "2 người + AI build hệ thống 35 modules — nhận ra AI không quyết định được điều cốt lõi"
 confidence: high
 related: []
-used_count: 0
-used_in: []
+used_count: 1
+used_in:
+  - "[[../../00-Inbox/2026-07-19-linkedin-ai-multiplies-ba-not-replaces]]"
 tags: ["ai", "ba-pm", "career", "product-management", "freelance", "constructhub"]
 maturity: seed
 review_interval: 14
